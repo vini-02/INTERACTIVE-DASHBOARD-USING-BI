@@ -41,4 +41,12 @@ Check the attendance tracker to monitor class attendance.
 
 Set up alerts for upcoming assignment deadlines.
 
+
+STEPS:
+Open the Power BI project file (interactiveDashboard.pbix) using Power BI Desktop.
+
+Customize the data source connections based on your academic data.
+
+Save and publish the dashboard to your Power BI service account for online access.
+
 Use the insights gained to improve your study habits and overall performance.
